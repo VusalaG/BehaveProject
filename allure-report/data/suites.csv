@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Feb 19 14:59:56 EST 2024","Mon Feb 19 14:59:56 EST 2024","3","","","","","","Verify the login url",""
+"passed","Mon Feb 19 14:59:51 EST 2024","Mon Feb 19 14:59:56 EST 2024","4911","","","","","","Logo presence on amwell home page",""
+"skipped","Mon Feb 19 15:00:05 EST 2024","Mon Feb 19 15:00:05 EST 2024","2","","","","","","Login to amwell with invalid parameters -- @1.3 ",""
+"skipped","Mon Feb 19 15:00:05 EST 2024","Mon Feb 19 15:00:05 EST 2024","2","","","","","","Login to amwell with invalid parameters -- @1.2 ",""
+"skipped","Mon Feb 19 15:00:05 EST 2024","Mon Feb 19 15:00:05 EST 2024","2","","","","","","Login to amwell with invalid parameters -- @1.1 ",""
+"passed","Mon Feb 19 14:59:56 EST 2024","Mon Feb 19 15:00:05 EST 2024","9480","","","","","","Login to amwell with valid parameters",""

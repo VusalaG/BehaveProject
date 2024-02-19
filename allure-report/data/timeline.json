@@ -1,0 +1,83 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Login to amwell with invalid parameters -- @1.3 ",
+    "uid" : "14141fe81d348cab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1708372805890,
+      "stop" : 1708372805892,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Testing2024", "vusala_yosif@yahoo.com" ]
+  }, {
+    "name" : "Login to amwell with invalid parameters -- @1.1 ",
+    "uid" : "493e2c066ca19bda",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1708372805881,
+      "stop" : 1708372805883,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Testing2024", "vusala.yusif@yahoo.com" ]
+  }, {
+    "name" : "Logo presence on amwell home page",
+    "uid" : "782accf00bc173a9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1708372791474,
+      "stop" : 1708372796385,
+      "duration" : 4911
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login to amwell with invalid parameters -- @1.2 ",
+    "uid" : "6d996ddf052c70e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1708372805886,
+      "stop" : 1708372805888,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Test", "vusala_yusif@yahoo.com" ]
+  }, {
+    "name" : "Login to amwell with valid parameters",
+    "uid" : "a7653f8ee0e46b17",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1708372796400,
+      "stop" : 1708372805880,
+      "duration" : 9480
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Verify the login url",
+    "uid" : "d04e0da246ef988b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1708372796390,
+      "stop" : 1708372796393,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

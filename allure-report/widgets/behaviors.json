@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "14102d61eef2af473312d4f91dec531b",
+    "name" : "Login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "f40722730ec0f4dfef1a7e73cc35ca41",
+    "name" : "Amwell",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

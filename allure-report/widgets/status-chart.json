@@ -1,0 +1,61 @@
+[ {
+  "uid" : "d04e0da246ef988b",
+  "name" : "Verify the login url",
+  "time" : {
+    "start" : 1708372796390,
+    "stop" : 1708372796393,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "782accf00bc173a9",
+  "name" : "Logo presence on amwell home page",
+  "time" : {
+    "start" : 1708372791474,
+    "stop" : 1708372796385,
+    "duration" : 4911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14141fe81d348cab",
+  "name" : "Login to amwell with invalid parameters -- @1.3 ",
+  "time" : {
+    "start" : 1708372805890,
+    "stop" : 1708372805892,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6d996ddf052c70e6",
+  "name" : "Login to amwell with invalid parameters -- @1.2 ",
+  "time" : {
+    "start" : 1708372805886,
+    "stop" : 1708372805888,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "493e2c066ca19bda",
+  "name" : "Login to amwell with invalid parameters -- @1.1 ",
+  "time" : {
+    "start" : 1708372805881,
+    "stop" : 1708372805883,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a7653f8ee0e46b17",
+  "name" : "Login to amwell with valid parameters",
+  "time" : {
+    "start" : 1708372796400,
+    "stop" : 1708372805880,
+    "duration" : 9480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,147 @@
+{
+  "uid" : "a7653f8ee0e46b17",
+  "name" : "Login to amwell with valid parameters",
+  "fullName" : "Login: Login to amwell with valid parameters",
+  "historyId" : "f2a11f891c674965eecf2df53d5319f8",
+  "time" : {
+    "start" : 1708372796400,
+    "stop" : 1708372805880,
+    "duration" : 9480
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given launch edge browser",
+      "time" : {
+        "start" : 1708372796401,
+        "stop" : 1708372797621,
+        "duration" : 1220
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When open login page",
+      "time" : {
+        "start" : 1708372797621,
+        "stop" : 1708372798387,
+        "duration" : 766
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And enter username \"vusala_yusif@yahoo.com\" and password \"Testing2024\"",
+      "time" : {
+        "start" : 1708372798387,
+        "stop" : 1708372798578,
+        "duration" : 191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And click login button",
+      "time" : {
+        "start" : 1708372798578,
+        "stop" : 1708372803633,
+        "duration" : 5055
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user must successfully log in",
+      "time" : {
+        "start" : 1708372803633,
+        "stop" : 1708372803674,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And close browser",
+      "time" : {
+        "start" : 1708372803674,
+        "stop" : 1708372803819,
+        "duration" : 145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "smoke1"
+  }, {
+    "name" : "feature",
+    "value" : "Login"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke1" ]
+  },
+  "source" : "a7653f8ee0e46b17.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,153 @@
+{
+  "uid" : "14141fe81d348cab",
+  "name" : "Login to amwell with invalid parameters -- @1.3 ",
+  "fullName" : "Login: Login to amwell with invalid parameters",
+  "historyId" : "d074c2e0fda63ca13d9a0b99dd33fa09",
+  "time" : {
+    "start" : 1708372805890,
+    "stop" : 1708372805892,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "skipped",
+    "steps" : [ {
+      "name" : "Given launch edge browser",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When open login page",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And enter username \"vusala_yosif@yahoo.com\" and password \"Testing2024\"",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And click login button",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then user shouldn't successfully log in",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And close browser",
+      "time" : {
+        "start" : 1708372805892,
+        "stop" : 1708372805892,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "smoke3"
+  }, {
+    "name" : "feature",
+    "value" : "Login"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "Testing2024"
+  }, {
+    "name" : "username",
+    "value" : "vusala_yosif@yahoo.com"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke3" ]
+  },
+  "source" : "14141fe81d348cab.json",
+  "parameterValues" : [ "Testing2024", "vusala_yosif@yahoo.com" ]
+}

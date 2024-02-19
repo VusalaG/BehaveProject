@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonBDDproject.iml" filepath="$PROJECT_DIR$/.idea/pythonBDDproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BehaveProject.iml" filepath="$PROJECT_DIR$/.idea/BehaveProject.iml" />
     </modules>
   </component>
 </project>
